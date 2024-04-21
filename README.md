@@ -42,7 +42,7 @@ Send emails to your customers directly through Up-. Simply provide the subject, 
 Get recommendations on which products to add to your catalogue for better customer service. Up- performs a detailed analysis of your inventory and your competition's products to provide tailored recommendations.
 
 Contributors:
-
-Akhil Songa
-Sai Tanmai Naga
+<br>
+Akhil Songa<br>
+Naga Venkata Surya Sai Tanmai Raavi
 
