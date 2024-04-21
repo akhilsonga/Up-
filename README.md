@@ -14,10 +14,19 @@ Easily update and check your inventory by simply asking Up- about your stock lev
 
 Example 1:
 "I have sold 10 espresso and restocked."
-
+![Up1](Images/Up2.1.JPG)
 
 Example 2:
 "I have sold 10 espresso and restocked 23 mocha."
+![Up1](Images/Up2.2.JPG)
+
+
+
+Example3: 
+"Perform a detailed analysis of small business shop at philadelphia, as i want to start a company"
+Inspired by ReAct LLM Paper, heavily improved version of it.
+![Up1](Images/Up3.JPG)
+
 
 
 ### Detailed Business Analysis
