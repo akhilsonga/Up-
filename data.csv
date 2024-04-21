@@ -1,0 +1,21 @@
+Item Name,Variation Name,SKU,Description,Category,Weight (lb),Price,Option Value 1,Current Quantity,Day Sales
+Espresso,Regular,ESP001,"A shot of intense, concentrated coffee served in a small cup.",Coffee,0.5,2.5,Regular,100,3
+Cappuccino,Small,CAP002,Espresso with steamed milk and a generous foam layer.,Coffee,0.6,3.5,Small,150,5
+Cafe Latte,Regular,CLT003,"Espresso with steamed milk, topped with a thin layer of foam.",Coffee,0.7,4.0,Regular,120,4
+Americano,Single Shot,AMS004,"Espresso diluted with hot water, creating a lighter-bodied coffee.",Coffee,0.6,3.0,Single Shot,130,7
+Mocha,Regular,MOCH005,"Espresso with steamed milk, cocoa powder, and topped with whipped cream.",Coffee,0.8,4.5,Regular,100,1
+Macchiato,Single Shot,MAC006,"Espresso ""stained"" with a small amount of steamed milk.",Coffee,0.4,2.75,Single Shot,140,1
+Flat White,Regular,FW007,"Espresso with velvety steamed milk, creating a balanced, creamy coffee.",Coffee,0.7,4.5,Regular,110,9
+Latte Macchiato,Tall,LM008,"Layered drink of steamed milk, espresso, and a hint of foam.",Coffee,0.8,4.75,Tall,120,3
+Croissant,Plain,CROIS009,"Buttery, flaky pastry perfect for breakfast or a light snack.",Pastries,0.3,2.0,Plain,200,8
+Chocolate Croissant,Regular,CHCRO010,"Croissant filled with rich chocolate, a delightful treat for chocolate lovers.",Pastries,0.4,2.5,Regular,150,5
+Almond Croissant,Regular,ALCRO011,Croissant filled with almond paste and topped with sliced almonds.,Pastries,0.4,2.75,Regular,120,8
+Bagel,Plain,BAG013,"Classic New York style bagel, perfect for toasting and spreading with your favorite toppings.",Pastries,0.5,2.25,Plain,180,5
+Blueberry Muffin,Regular,BBM014,"Moist muffin bursting with juicy blueberries, a delicious breakfast option.",Pastries,0.4,2.75,Regular,140,6
+Banana Bread,Slice,BB015,"Homemade banana bread slice, a comforting and satisfying treat.",Pastries,0.4,2.5,Slice,160,1
+Ham and Cheese Croissant,Regular,HCC016,"Croissant filled with savory ham and melted cheese, a savory breakfast option.",Pastries,0.5,3.0,Regular,130,8
+Fruit Danish,Regular,FD017,"Danish pastry filled with a variety of seasonal fruits, perfect for a fruity indulgence.",Pastries,0.4,2.75,Regular,150,10
+Spinach and Feta Quiche,Regular,SFQ018,"Quiche filled with spinach, feta cheese, and savory custard, a delightful brunch option.",Pastries,0.6,3.5,Regular,120,2
+Vegetable Frittata,Slice,VFS019,"Frittata made with seasonal vegetables and eggs, a satisfying and nutritious choice.",Pastries,0.5,3.25,Slice,140,8
+Avocado Toast,Regular,AVOTO020,"Sourdough toast topped with mashed avocado, a healthy and trendy breakfast option.",Pastries,0.6,4.0,Regular,100,7
+Greek Yogurt Parfait,Regular,GYP021,"Layers of Greek yogurt, granola, and fresh fruit, a refreshing breakfast or snack option.",Pastries,0.5,3.75,Regular,110,10
