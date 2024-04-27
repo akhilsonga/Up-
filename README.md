@@ -25,6 +25,7 @@ Additionally, there are several other agents operating behind the scenes, such a
 - Python Code Generator and Executor
 - Inventory Prompt Expert
 - User Query Prompt Expert
+- Markdown response Expert
 - Youtube Video Analyst
 
 ## Functionality Highlights
