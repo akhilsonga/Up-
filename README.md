@@ -6,7 +6,7 @@ Up- is a chatbot designed to assist underprivileged business owners in managing 
 
 # UnderPrivileged Business Owner Application
 
-I developed a comprehensive application tailored for underprivileged business owners, enabling them to conduct all operations using natural language. Customization is facilitated through Google Forms.
+We developed a comprehensive application tailored for underprivileged business owners, enabling them to conduct all operations using natural language. Customization is facilitated through Google Forms.
 
 ## AI System Architecture
 
