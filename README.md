@@ -6,6 +6,45 @@ Let's Up the game of Underprivileged Business Owners
 
 Up- is a chatbot designed to assist underprivileged business owners in managing their businesses more efficiently. With Up-, you can perform various tasks such as updating inventory, checking sales, analyzing business performance, and sending emails to customers, all through simple queries.
 
+# Underprivileged Business Owner Application
+
+I developed a comprehensive application tailored for underprivileged business owners, enabling them to conduct all operations using natural language. Customization is facilitated through Google Forms.
+
+## AI System Architecture
+
+The AI system comprises multiple agents collaborating to streamline tasks seamlessly. These agents include:
+
+- Inventory Manager
+- Internet Surfer
+- Report Analyst
+- Email Manager
+- Catalog Business Analyst
+
+Additionally, there are several other agents operating behind the scenes, such as:
+
+- Python Code Generator and Executor
+- Inventory Prompt Expert
+- User Query Prompt Expert
+- Youtube Video Analyst
+
+## Functionality Highlights
+
+### Inventory Manager
+Automatically handles inventory management tasks, including tracking additions, sales, best-selling items, average performance, and user preferences, all communicated in natural language.
+
+### Catalog Business Analyst
+Assists in decision-making by providing insights on potential product additions and product pairings through detailed reports generated from inventory and catalog searches.
+
+### Internet Surfer
+Facilitates market research for expanding businesses, gathering data on rent rates, top-selling products, successful businesses in specific areas, brand competitors, average revenue, and more. It generates PDF reports for easy reference or distribution.
+
+### Email Manager
+Streamlines email communication by organizing incoming emails and facilitating bulk email sends for tasks such as distributing gift cards or notifying employees about shop closures.
+
+This integrated system aims to alleviate the burden on business owners, enabling them to focus on core operations while leveraging AI-driven automation for efficiency.
+
+
+
 ## Features
 
 ### Inventory Management
