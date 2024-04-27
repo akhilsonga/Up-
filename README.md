@@ -1,12 +1,10 @@
-# Up-
-
 Let's Up the game of Underprivileged Business Owners
 
 ## Introduction
 
 Up- is a chatbot designed to assist underprivileged business owners in managing their businesses more efficiently. With Up-, you can perform various tasks such as updating inventory, checking sales, analyzing business performance, and sending emails to customers, all through simple queries.
 
-# Underprivileged Business Owner Application
+# UnderPrivileged Business Owner Application
 
 I developed a comprehensive application tailored for underprivileged business owners, enabling them to conduct all operations using natural language. Customization is facilitated through Google Forms.
 
